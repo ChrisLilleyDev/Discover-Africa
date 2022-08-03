@@ -1,0 +1,44 @@
+body {
+  overflow-x: hidden;
+}
+
+#splash {
+  position: relative;
+  min-height: 100vh;
+  background-image: url("../img/home/card-africa.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+@media (min-width: 992px) {
+  #splash {
+    background-image: url("../img/home/bkgrnd.jpg");
+  }
+}
+
+#splash div h1 {
+  text-shadow: 0 0.5rem 0.5rem black;
+}
+
+#splash div button {
+  box-shadow: 0 0.5rem 1rem 0.5rem #00000080;
+}
+
+.splash-fade {
+  background-image: linear-gradient(#21252900, #212529 45%, #212529 55%, #21252900);
+}
+
+.pic-card {
+  max-width: 30rem;
+}
+
+.card-pic {
+  max-height: 30rem;
+  box-shadow: 1rem 1rem var(--bs-light), -1rem -1rem var(--bs-warning);
+}
+
+.animal-page-pic {
+  max-height: 60rem;
+  box-shadow: 0.5rem 0.5rem var(--bs-light), -0.5rem -0.5rem var(--bs-warning);
+}
