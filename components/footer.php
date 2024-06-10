@@ -2,7 +2,7 @@
     <hr>
     <h3>Made by <a href="http://chrislilleydev.github.io/" class="fw-bold text-warning text-decoration-none">Chris Lilley</a></h1>
     <a href="mailto:chris.lilley.dev@gmail.com">Email</a>
-    <a href="http://www.linkedin.com/in/chris-lilley-dev">LinkedIN</a>
+    <a href="http://www.linkedin.com/in/chris-lilley-dev">LinkedIn</a>
     <a href="http://chrislilleydev.github.io/">Personal Website</a>
     <a href="https://github.com/ChrisLilleyDev">Projects</a>
     <hr>
